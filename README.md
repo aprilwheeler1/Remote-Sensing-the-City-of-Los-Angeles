@@ -19,6 +19,7 @@ Map Series
 
 <img width="468" alt="image" src="https://github.com/aprilwheeler1/Remote-Sensing-the-City-of-Los-Angeles/assets/102776972/71174271-31b6-4006-ba52-c364d42dedf3">
 
+
 Report
 
 A. Methodologies  
