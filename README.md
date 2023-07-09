@@ -20,6 +20,7 @@ Map Series
 <img width="468" alt="image" src="https://github.com/aprilwheeler1/Remote-Sensing-the-City-of-Los-Angeles/assets/102776972/71174271-31b6-4006-ba52-c364d42dedf3">
 
 Report
+
 A. Methodologies
 	i. Data Sources: For my project I used the Landsat/MS (ImageServer). The data from my images come from the Multispectral Landsat image service, which covers the land mass of the world. The data includes scenes from the Landsat 8 and Global Land Survey (GLS) data from epochs 1990, 2000, 2005, and 2010 at 30 meter resolution and GLS 1975 at 60 meter resolution. The data sets were created by the United States Geological Survey (USGS) and the National Aeronautics and Space Administration (NASA) using Landsat images (ArcGIS). I added this server in ArcGIS Pro under Insert, Connections, New ArcGIS Server.
 	The Landsat 8 was launched February 11, 2013. This satellite carries the Operational Land Imager (OLI) and the Thermal Infrared Sensor (TIRS) instruments. The OLI measures waves in the visible, near infrared, and shortwave infrared portions of the spectrum (bands 1-9). The TIRS measures land surface temperature in two thermal bands (bands 10-11) with a technology that uses quantum physics to detect heat. The Landsat 8 completes one earth orbit every 99 minutes and has a 16 day repeat cycle (USGS).
